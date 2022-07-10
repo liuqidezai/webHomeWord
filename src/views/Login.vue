@@ -37,6 +37,7 @@
             @click="login()"
             >登录</el-button
           >
+          <a>直接登录即可</a>
         </el-form-item>
       </el-form>
     </div>
